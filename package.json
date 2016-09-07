@@ -1,0 +1,26 @@
+{
+  "name": "nwdf",
+  "version": "1.0.0",
+  "description": "Web Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Aman Srivastava",
+    "email": "mailbox@amansrivastava.in",
+    "url": "http://amansrivastava.in/"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "backend": "file:..\\backend",
+    "cms": "file:..\\cms",
+    "module-manager": "file:..\\module-manager",
+    "routing": "file:..\\routing"
+  },
+  "readme": "ERROR: No README data found!",
+  "_id": "nwdf@1.0.0",
+  "_shasum": "9c325b4cc291e1e774030b64552497bb319fffb4",
+  "_from": "..\\..\\nwdf\\nwdf",
+  "_resolved": "file:..\\..\\nwdf\\nwdf"
+}
