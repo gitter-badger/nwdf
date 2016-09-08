@@ -1,5 +1,7 @@
 # nwdf - Nodejs Web Development Framework.
 
+[![Join the chat at https://gitter.im/CreDevLabz/nwdf](https://badges.gitter.im/CreDevLabz/nwdf.svg)](https://gitter.im/CreDevLabz/nwdf?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 NWDF is module based framework to create web based applications more freely with reusable code.
 
 ### Component List
